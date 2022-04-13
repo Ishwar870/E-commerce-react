@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ishwar870/E-commerce-react.git/static/css/main.7df03a9e.css",
+    "main.js": "/Ishwar870/E-commerce-react.git/static/js/main.67e3ecc2.js",
+    "index.html": "/Ishwar870/E-commerce-react.git/index.html",
+    "main.7df03a9e.css.map": "/Ishwar870/E-commerce-react.git/static/css/main.7df03a9e.css.map",
+    "main.67e3ecc2.js.map": "/Ishwar870/E-commerce-react.git/static/js/main.67e3ecc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df03a9e.css",
+    "static/js/main.67e3ecc2.js"
+  ]
+}
